@@ -8,7 +8,7 @@ Fully responsive Manage landing page created using Tailwind CSS
 - Tailwind
 
 # Live Site
-
+- https://managelandingpagemk.netlify.app/
 
 # Screenshots
 ![1](https://github.com/Evilking009/ManageLandingPage/assets/4027728/99966c99-e923-4124-9e08-232914dd0236)
